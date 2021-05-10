@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14df005e2ef4e4699b9b88a2c25c31fe, type: 3}
+  m_Name: GameSettingsScriptable
+  m_EditorClassIdentifier: 
+  CapOfLife: 5
+  TotalTimeForRestLifeHours: 0
+  TotalTimeForRestLifeMin: 15
+  TotalTimeForRestLifeSec: 60
+  FirstGems: 20
+  rewardedGems: 5
+  losingLifeEveryGame: 0
+  CostIfRefill: 12
+  FailedCost: 5
+  ExtraFailedMoves: 5
+  levelColor: {r: 0, g: 0.16078432, b: 0.25490198, a: 0.9019608}
+  gemsProducts:
+  - count: 10
+    price: 0.99
+  - count: 50
+    price: 4.99
+  - count: 100
+    price: 9.99
+  - count: 150
+    price: 14.99
+  - count: 200
+    price: 19.99
+  InAppIDs:
+  - product1
+  - product2
+  - product3
+  - product4
+  - product5
+  boostProducts:
+  - icon: {fileID: 0}
+    description: 
+    count: 
+    GemPrices: 
+  - icon: {fileID: 0}
+    description: 
+    count: 
+    GemPrices: 
+  - icon: {fileID: 0}
+    description: 
+    count: 
+    GemPrices: 
+  - icon: {fileID: 0}
+    description: 
+    count: 
+    GemPrices: 
+  enableUnityAds: 0
+  enableGoogleMobileAds: 0
+  enableChartboostAds: 0
+  FacebookEnable: 0
+  PlayFab: 0
+  enableInApps: 0
+  admobUIDAndroid: ca-app-pub-3940256099942544/1033173712
+  admobUIDIOS: ca-app-pub-9974681578637939/7955828264
+  ShowRateEvery: 2
+  RateURL: 
+  RateURLIOS: 
+  adsEvents:
+  - gameEvent: 5
+    adType: 0
+    everyLevel: 4
+    calls: 0
+  - gameEvent: 9
+    adType: 0
+    everyLevel: 3
+    calls: 0
+  - gameEvent: 16
+    adType: 2
+    everyLevel: 3
+    calls: 0
+  - gameEvent: 6
+    adType: 0
+    everyLevel: 1
+    calls: 0
+  - gameEvent: 0
+    adType: 2
+    everyLevel: 3
+    calls: 0

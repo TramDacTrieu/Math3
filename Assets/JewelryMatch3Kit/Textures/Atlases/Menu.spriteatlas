@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Menu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 82ec6e07db785466eaf8bca3e2ca6ab4, type: 3}
+    - {fileID: 102900000, guid: b975df81178afcb4eb5904279a36f665, type: 3}
+    - {fileID: 102900000, guid: ac7b96856016f78488b20bb2559f7426, type: 3}
+    - {fileID: 102900000, guid: caf1a972ecc42f74f86dba132ae32fe9, type: 3}
+    - {fileID: 102900000, guid: 01651ed6643914edaa6c4a63f771a7df, type: 3}
+    - {fileID: 102900000, guid: 8f90eeb819dd06f45810a4f830a63115, type: 3}
+    totalSpriteSurfaceArea: 12978899
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7ae6a63041dc9384ba5596941847c5a2, type: 3}
+  - {fileID: 21300000, guid: 62fbc730cec8ce84bb1dc4d475f12def, type: 3}
+  - {fileID: 21300000, guid: c03912019fdb20140bdcc701f4dba90e, type: 3}
+  - {fileID: 21300000, guid: 98121a323e76dcf42810956bde421e9e, type: 3}
+  - {fileID: 21300000, guid: a8f96c627ddffcb44b523a4005efd059, type: 3}
+  - {fileID: 21300000, guid: 3970a79202de8c64cb32133f75d447b1, type: 3}
+  - {fileID: 21300000, guid: 28a18a9214fe0f545aa1b7134358ccc8, type: 3}
+  - {fileID: 21300000, guid: 37e96b038d8898242999de491ead0552, type: 3}
+  - {fileID: 21300000, guid: 1f667293142657d47beba88a6f7228bd, type: 3}
+  - {fileID: 21300000, guid: 523909247f5c947b190634ccf982df5e, type: 3}
+  - {fileID: 21300000, guid: 54cb5c94570decf4b8e32371b5a44c16, type: 3}
+  - {fileID: 21300000, guid: ef83801590f45a94a8812e933a372be2, type: 3}
+  - {fileID: 21300000, guid: 7cc61206ba220004ebcb7b895697ee01, type: 3}
+  - {fileID: 21300000, guid: 485b8386795a4aa4eabc9094851e4412, type: 3}
+  - {fileID: 21300000, guid: 46f590a6c81f17c4484ffd48d120d687, type: 3}
+  - {fileID: 21300000, guid: 2f6540b73606c6c40bc53728d0c94ccc, type: 3}
+  - {fileID: 21300000, guid: 7efeaa6862bb94e4faa9ddfc4f321a9d, type: 3}
+  - {fileID: 21300000, guid: c597c6982fdeaff4cad827284cf904c3, type: 3}
+  - {fileID: 21300000, guid: 1a43535a6f6f6bc439205c01e19caf1e, type: 3}
+  - {fileID: 21300000, guid: 78e3cadafea6c3a42b22bc4ce1d7b576, type: 3}
+  - {fileID: 21300000, guid: a9938f2beb4cd87429a42fd84635a2eb, type: 3}
+  - {fileID: 21300000, guid: 90976f5b1dcf4bb4b8a5b53ac40bcce4, type: 3}
+  - {fileID: 21300000, guid: c758381cca69c56448af064bca4b4640, type: 3}
+  - {fileID: 21300000, guid: 7347164d6cabe4923befe5d39921d9d5, type: 3}
+  - {fileID: 21300000, guid: 3b14545e5272f4f4eb23301074f11dda, type: 3}
+  - {fileID: 21300000, guid: 347a814f79724d14a8c7208ac616f8f6, type: 3}
+  - {fileID: 21300000, guid: 0768565fdef1a5c4fb18f3526c150565, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tutorial_02
+  - finger_for_tutorial
+  - big_banner
+  - no-thanks-button
+  - tutorial_07
+  - home
+  - tutorial
+  - Play_button
+  - loading
+  - logo
+  - pre-play-banner_02
+  - tutorial_01
+  - tutorial_06
+  - complete_menu_stars_empty
+  - pre-play-banner
+  - arrow
+  - rate_lebel
+  - tutorial_05
+  - complete_text
+  - compete_menu_stars_middle
+  - info
+  - big_spot
+  - pause_music_on_button
+  - wheel
+  - tutorial_03
+  - tutorial_04
+  - pause_sound_on_button
+  m_RenderDataMap: {}
+  m_Tag: Menu
+  m_IsVariant: 0

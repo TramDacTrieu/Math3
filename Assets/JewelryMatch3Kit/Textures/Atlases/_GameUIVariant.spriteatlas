@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _GameUIVariant
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 0.5
+    packables: []
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 4343727234628468602, guid: f8ac77b6873034217bdffa1365c4729c,
+    type: 2}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 38c698207d2a5f64db207eebacbd333b, type: 3}
+  - {fileID: 21300000, guid: 4b037280a1b08c3479f67445a1eda05b, type: 3}
+  - {fileID: 21300000, guid: 39bcec21369c9134eb95c343bf363858, type: 3}
+  - {fileID: 21300000, guid: 5111c951d9104f3459200dbaaedd1e1a, type: 3}
+  - {fileID: 21300000, guid: 8ef1181270f085c499fc9dd013fd76eb, type: 3}
+  - {fileID: 21300000, guid: a3bb608219a1da74d80c3662a0411eb4, type: 3}
+  - {fileID: 21300000, guid: 90c7fce28fbc05345a3e27a1cf2ddd7d, type: 3}
+  - {fileID: 21300000, guid: c5273213265a1064eb28b48c4c910ce3, type: 3}
+  - {fileID: 21300000, guid: cd2d31642e37e6943b628a90b7d09ea3, type: 3}
+  - {fileID: 21300000, guid: b81d9384ddcaf3042ada3ce5c7583427, type: 3}
+  - {fileID: 21300000, guid: c1e3bdc460939d44e96cff9670b23c82, type: 3}
+  - {fileID: 21300000, guid: 82a156d40f1d5d54c8df8fad4f5fd048, type: 3}
+  - {fileID: 21300000, guid: 54a3ab35ac5358d42b4840cb376ce42e, type: 3}
+  - {fileID: 21300000, guid: 64c10955860150849a245609d6999c6f, type: 3}
+  - {fileID: 21300000, guid: 388e7985a44a7364eb1336aa23fd5e5c, type: 3}
+  - {fileID: 21300000, guid: 211a4d859fa880a4d9cc24dcc945a64a, type: 3}
+  - {fileID: 21300000, guid: 5fbd5b954aa6d8c45b0e037ba7a98215, type: 3}
+  - {fileID: 21300000, guid: 869b05368b62bc64980120de7ea0e85b, type: 3}
+  - {fileID: 21300000, guid: e5c6874613f4cd34ea546026f2ee0bd2, type: 3}
+  - {fileID: 21300000, guid: 4af0284606442d742b2b01638f077a39, type: 3}
+  - {fileID: 21300000, guid: f2b48356298e56f4e8b2bff0fa224f0b, type: 3}
+  - {fileID: 21300000, guid: e65b96e6614bca946bf391dc81e3321f, type: 3}
+  - {fileID: 21300000, guid: 4d459327237b1cd418beee9bfc4cf81b, type: 3}
+  - {fileID: 21300000, guid: 2132f167a93ad1544ba50b904d951fa9, type: 3}
+  - {fileID: 21300000, guid: 7d63a267602ecff429df94da06883011, type: 3}
+  - {fileID: 21300000, guid: 120b4eb7bf3e65841a3f8ba1b7d955e8, type: 3}
+  - {fileID: 21300000, guid: 0cfb8948a0759a642b05bef1cc0e9128, type: 3}
+  - {fileID: 21300000, guid: afb2795860b265743b89c2c71775285a, type: 3}
+  - {fileID: 21300000, guid: 397ee8f8a4850f24790411a447635116, type: 3}
+  - {fileID: 21300000, guid: 64f44f49521a5eb4ab8ef0e3e4dcbc64, type: 3}
+  - {fileID: 21300000, guid: f5462d69452a23e4f9c290f8b0ecb604, type: 3}
+  - {fileID: 21300000, guid: f4b247a922a3dc846b2ad0767009b0e0, type: 3}
+  - {fileID: 21300000, guid: 962a1f0a1ba87464888b5bd9c9392cd4, type: 3}
+  - {fileID: 21300000, guid: 04148cbae36273248aba247867710bd7, type: 3}
+  - {fileID: 21300000, guid: 9fce026b04443b3489d515b463c62786, type: 3}
+  - {fileID: 21300000, guid: 35e9eb8be411dba42908c7cb234e92c9, type: 3}
+  - {fileID: 21300000, guid: 2f859f8bfdbb55348b0080f51a7a7f78, type: 3}
+  - {fileID: 21300000, guid: 5a4f161c770ae8d40958e61d4816aca2, type: 3}
+  - {fileID: 21300000, guid: bef46d1cab9811745ada606463c2ee06, type: 3}
+  - {fileID: 21300000, guid: db228c5cfeacbee49a7ebca66ca9396a, type: 3}
+  - {fileID: 21300000, guid: 12d6129ce95707e4188ebd4a8aff1f23, type: 3}
+  - {fileID: 21300000, guid: 8900e5eda1f0dc94a9a4b372e5ae94ca, type: 3}
+  - {fileID: 21300000, guid: 4b2fa14ee83321345ba223a8c0c4de57, type: 3}
+  - {fileID: 21300000, guid: eab0ed4e6a60cb547b56b9dca559abcd, type: 3}
+  - {fileID: 21300000, guid: 78626faefcf3ab54eb43d567c64176eb, type: 3}
+  - {fileID: 21300000, guid: 6face0bf6ab01d84bbf2fb3d4082af11, type: 3}
+  - {fileID: 21300000, guid: 037837df4a2424949a51dc5274c3aad1, type: 3}
+  - {fileID: 21300000, guid: 91af9bdf6b714e04a9f1d86ab4db00e7, type: 3}
+  - {fileID: 21300000, guid: 77e277ef12153d94ca0061d7c60205e9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - gui_bottom
+  - great_text
+  - level_completed_text
+  - char_bow
+  - ready_tick
+  - booster_spot_count
+  - char_hair_01
+  - char_tear_02
+  - play_menu_spot_target
+  - pause_button
+  - game_play_01_banner
+  - char_tear
+  - fantastic_text
+  - char_eye_01
+  - char_eye_02
+  - game_play_02_banner
+  - star_for_bar_02
+  - no_match_text
+  - char_mouth_01
+  - booster_spot_count_plus
+  - char_neck
+  - star_bar
+  - char_hand
+  - char_leg
+  - close_eye
+  - good_text
+  - goal_icon_01
+  - booster_02
+  - char_diamond
+  - booster_spot
+  - +5-text
+  - char_bow_01
+  - level_failed_text
+  - char_body_03
+  - star_for_bar_01
+  - char_ear
+  - finger
+  - progress_bar_unfiller
+  - diamond_menu
+  - gui_bottom_mask
+  - char_face
+  - char_hair_02
+  - char_body_01
+  - char_mouth_02
+  - char_eyebrow
+  - char_bow_02
+  - booster_01
+  - gui
+  - char_body_02
+  m_RenderDataMap: {}
+  m_Tag: GameUI
+  m_IsVariant: 1

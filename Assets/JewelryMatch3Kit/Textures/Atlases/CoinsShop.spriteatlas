@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CoinsShop
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 09556745ace844644bc421cc37cf3821, type: 3}
+    totalSpriteSurfaceArea: 1201527
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 96e50d710c2d61d4a9bc8804e04ca58b, type: 3}
+  - {fileID: 21300000, guid: f417965206ddf3443a04ece51b4472ac, type: 3}
+  - {fileID: 21300000, guid: bff21aa2d9d39b04bb353e8e47c57541, type: 3}
+  - {fileID: 21300000, guid: a92428773025b374fa11324975d3f143, type: 3}
+  - {fileID: 21300000, guid: bd3a4ad87b783064389df18811eadc79, type: 3}
+  - {fileID: 21300000, guid: e54902b988d962648b0a8905c3b5629e, type: 3}
+  - {fileID: 21300000, guid: ea601a4b734225b41a4950976b92ec7d, type: 3}
+  - {fileID: 21300000, guid: 0cb4da8b8f13d2844b243bfa4f7b2e27, type: 3}
+  - {fileID: 21300000, guid: 7f63bfdb3ebcf6847b611fc1d89cc224, type: 3}
+  - {fileID: 21300000, guid: 102f064c1def4fb48b9e30d0bd164806, type: 3}
+  - {fileID: 21300000, guid: 7cf8831db722d494bb47af7e80d6fa8a, type: 3}
+  - {fileID: 21300000, guid: b124ae9f26ba4b641b201c8742ddb3ca, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - coin_5
+  - coin_3
+  - coin_6
+  - watch_ads_button
+  - coin_4
+  - coin_1
+  - see_ads_button
+  - coin_2
+  - daily_coin_0
+  - button_shop
+  - coins-icon
+  - best_price_lable
+  m_RenderDataMap: {}
+  m_Tag: CoinsShop
+  m_IsVariant: 0

@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/main.unity
+    guid: 7977843a089de487babb4593aeb6a736
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/map.unity
+    guid: e1598a256fd12c548bf8bcbe4d821fe7
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level1.unity
+    guid: 67270397a102d4e8e87771d3f22e71cf
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level2.unity
+    guid: b5d77709bab290c40af9cabdbc9f875f
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level3.unity
+    guid: f68bf8f9da986fb4280a94fa50fddb5f
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level4.unity
+    guid: 27b2de79acb02b144963f21d466656ef
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level5.unity
+    guid: 7cee6f5c4fbcdea4eb339dadf03c9930
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level6.unity
+    guid: 0d46ec2b8cbba504c9a0c65dba7e848f
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level7.unity
+    guid: 3c365c09d4e3c1a4992cce36cf13806e
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level8.unity
+    guid: 8c0bf9f33f73d62489354ea516ed297b
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level9.unity
+    guid: 75f9844455d0a0b4bb9c773ab4451441
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level10.unity
+    guid: ebea7766c531fd14aba9540ac5dc724c
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level11.unity
+    guid: 349bf6fc686a66b4a8a44e787b0e779e
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level12.unity
+    guid: 4d6e4f1e66d35eb4caf204386ea991c4
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level13.unity
+    guid: cd835beb1e3322340afd6841fb8b1ffe
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level14.unity
+    guid: 4cdbce05c166c1140a04b93aac7bd25f
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level15.unity
+    guid: ee92b020050aa1a45a4093b4801dc92e
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level16.unity
+    guid: 1c21845fce01dcd44a87e43015f23c47
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level17.unity
+    guid: 8caa4b25f4580ff44aa7fdc91ea6e2b8
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level18.unity
+    guid: 15b520f15fa90a847956f3be43101a21
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level19.unity
+    guid: 034881228b7742448b2819017ea8d735
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level20.unity
+    guid: 5fd0c0c39131ea144bc9e04cd17c0c19
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level21.unity
+    guid: 92fcba9b00da24527840f0d61a6ff8af
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level22.unity
+    guid: 878e3722a00f247b7942e0dcf8ca0940
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level23.unity
+    guid: f918f3ddd5f399b4287c570dfdcece2d
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level24.unity
+    guid: dd08d8edf28f30f468ac68c94101f54f
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level25.unity
+    guid: 1dcba25508a92b64c94ce8f39f4a86e4
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level26.unity
+    guid: c0218f1f7016b4688b0823b3fd352f1f
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level27.unity
+    guid: 03f951a4374b54b0690bb763aa91f702
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level28.unity
+    guid: ba86eae6b1df7bd4bb056a7c21500971
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level29.unity
+    guid: 1d5a1b2965aca0a4db492c9542bb0cc4
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level30.unity
+    guid: 847c21d8466e03143b94fb0f96377656
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level31.unity
+    guid: 5f596dc889af9bd409ae1fcd9d2f7d58
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level32.unity
+    guid: 1322f11a25280314cbe8efcaedd43e80
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level33.unity
+    guid: ecba64ef933b84d49a2d32db9f4833d5
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level34.unity
+    guid: 06367de38a6b23b43bcbe23f0a80342e
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level35.unity
+    guid: 2df3f7cfeea067345884fc2b3fd9ef39
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level36.unity
+    guid: 252a6a28f29cfc141b7a44bc70d15a16
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level37.unity
+    guid: 49cab061c4838124b8c98eb8363da74a
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level38.unity
+    guid: bac81cc22fd589e4a90d61f3f279fbf8
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level39.unity
+    guid: f4e11ff4ab066824ba52eb442a3f67a0
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level40.unity
+    guid: f0744989b5eab904780f66c5983a3de8
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level41.unity
+    guid: 0409099e716ed6048a34023bb34d92f9
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level42.unity
+    guid: efa013d9b5d76444b98bb05f0c30436f
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level43.unity
+    guid: 2b44e5d122005e74386dd3731faf7316
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level44.unity
+    guid: 83bf2481c83a7ee4a8f479715926e936
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level45.unity
+    guid: de538d14ab575f743a7de3381d13324c
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level46.unity
+    guid: e9372046315c348a8af787d1159a9db2
+  - enabled: 1
+    path: Assets/JewelryMatch3Kit/Scenes/level47.unity
+    guid: c2f5146f39b3f47d9a7576b00466f10f
+  m_configObjects: {}

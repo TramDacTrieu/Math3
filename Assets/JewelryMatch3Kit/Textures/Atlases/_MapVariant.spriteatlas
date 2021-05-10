@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _MapVariant
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 0.5
+    packables: []
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 4343727234628468602, guid: 809df132b243748b18114d2d84d8f612,
+    type: 2}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: baa30d20af936b141907fccf046ab0f8, type: 3}
+  - {fileID: 21300000, guid: e23395f0f61bbbd459fb1ad2f81dbd00, type: 3}
+  - {fileID: 21300000, guid: 48fb45e1d7d559a4a81f4fa93a722f03, type: 3}
+  - {fileID: 21300000, guid: 76d3d352a348876408e4f8381beb63aa, type: 3}
+  - {fileID: 21300000, guid: dfd05d5622c5cac4d823f2c49149a3ef, type: 3}
+  - {fileID: 21300000, guid: 354d2b997f8a09149b905a57ad1c5462, type: 3}
+  - {fileID: 21300000, guid: b236b45ac8d451847820d97b38d63497, type: 3}
+  - {fileID: 21300000, guid: 669c86db1fa45e0449294ec49f4a2034, type: 3}
+  - {fileID: 21300000, guid: 57965f0d7cd220847bf61782ef65f5fd, type: 3}
+  - {fileID: 21300000, guid: f084337db09c33c40b38513852fb2757, type: 3}
+  - {fileID: 21300000, guid: e38b91fd314976744b544a7d5a980bd8, type: 3}
+  - {fileID: 21300000, guid: 99a09a3e6c7accd49aba9ddf773717f0, type: 3}
+  - {fileID: 21300000, guid: 9c993d9f6b637d141bcff50e0bd7e99c, type: 3}
+  - {fileID: 21300000, guid: 1c0156ff2852dd5419a369e9033b75cb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - map_overlay_01
+  - setting_button
+  - map_overlay_02
+  - coins
+  - settings_button
+  - boost_plus_button
+  - avatar_01
+  - avatar_02
+  - buy_life_icon
+  - star 1
+  - coming_soon_text
+  - heart
+  - cloud
+  - settings_banner
+  m_RenderDataMap: {}
+  m_Tag: Map
+  m_IsVariant: 1

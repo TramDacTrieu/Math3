@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7d19b56b650f32e479b99cc217a0c8f8, type: 3}
+    totalSpriteSurfaceArea: 15728640
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 70016306539ed0649ac0a7d0efdace4e, type: 3}
+  - {fileID: 21300000, guid: b987a3b73e2e60c4b84a1ae44f649911, type: 3}
+  - {fileID: 21300000, guid: 7e3d7d3d9325a8a4988ed8251004b697, type: 3}
+  - {fileID: 21300000, guid: 4823085e90b13954da693b399f978659, type: 3}
+  - {fileID: 21300000, guid: 113aedde8cbd76440a60dd7f18c72b25, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - background_02
+  - background_04
+  - background_01
+  - background_03
+  - background_05
+  m_RenderDataMap: {}
+  m_Tag: GUI
+  m_IsVariant: 0

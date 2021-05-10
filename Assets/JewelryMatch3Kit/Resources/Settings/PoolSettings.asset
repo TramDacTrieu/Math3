@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc8fe382aba64281a54c4eb25ded695, type: 3}
+  m_Name: PoolSettings
+  m_EditorClassIdentifier: 
+  itemsToPool:
+  - objectToPool: {fileID: 1118449079772692, guid: ab3f2797df13447648241c5d1d716075,
+      type: 2}
+    poolName: flower_items
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 190504, guid: 11627449414b639428ab223fa6ad4143, type: 2}
+    poolName: Items
+    amountToPool: 50
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1355645289644648, guid: 26d5c2694845d4706961a88c6e3fa8c4,
+      type: 2}
+    poolName: key_holders
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1504660578445700, guid: eb1ff3f733e8e48709260183825a090b,
+      type: 2}
+    poolName: multicolors
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1412260820561842, guid: 8e7439b20b11b4e7d82f3bff126d40df,
+      type: 2}
+    poolName: secrets
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1091418422372508, guid: f17409f03b39041988a55019161d6dc8,
+      type: 2}
+    poolName: spiral_bombs
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1155902784439226, guid: 7c8af324654e442e5b6d465033f8e9f7,
+      type: 2}
+    poolName: stripeds
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1582002830298756, guid: 0bf5c499213ff4a7e9de588155df00d7,
+      type: 2}
+    poolName: flowers
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 0
+  - objectToPool: {fileID: 1367298776885364, guid: fe5679161f4af4816ac356666d1e7b81,
+      type: 2}
+    poolName: keys
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 0
+  - objectToPool: {fileID: 1298122383322624, guid: f47e00f071465443b970f14187b202bf,
+      type: 2}
+    poolName: nested_bigs
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1832299386496652, guid: 30623935de9d74dcfa6f9a78f0a1363f,
+      type: 2}
+    poolName: nesteds
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1498408613308314, guid: bde22b6e7bcc5483f9a45fdfc530792d,
+      type: 2}
+    poolName: diamonds
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 0
+  - objectToPool: {fileID: 1186727494170286, guid: dc6d7fde3ddc04818b381d67cf728635,
+      type: 2}
+    poolName: nested_smalls
+    amountToPool: 0
+    shouldExpand: 0
+    inEditor: 0
+  - objectToPool: {fileID: 1620931936514416, guid: 04ae004498fba4f6f8138e4de9e14ea7,
+      type: 2}
+    poolName: Misc
+    amountToPool: 1
+    shouldExpand: 0
+    inEditor: 0
+  - objectToPool: {fileID: 1309095081284296, guid: ef4effe63704b4f319594e5104d409d4,
+      type: 2}
+    poolName: diamond_midles
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1333045485266258, guid: 29fa6b12db0094b48af31103b4b6424f,
+      type: 2}
+    poolName: locks
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1183753897277584, guid: 3a1231ed7d8724d20b110416accce588,
+      type: 2}
+    poolName: potions
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1945189616919210, guid: 592cabd4aec784225b7a0643b2f01d78,
+      type: 2}
+    poolName: wires
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1228847502477762, guid: 00ffca7c8514b461dab4e0f3a66e3f8b,
+      type: 2}
+    poolName: wire1s
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 1
+  - objectToPool: {fileID: 1869256696760646, guid: 044ad865f6153422296ad04ba1e8a23d,
+      type: 2}
+    poolName: Lines
+    amountToPool: 10
+    shouldExpand: 1
+    inEditor: 0
+  - objectToPool: {fileID: 100000, guid: 40f59a5c9ded7444fbb6769e02d1b1b9, type: 2}
+    poolName: Effects
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 0
+  - objectToPool: {fileID: 100002, guid: 38ce9868dc39c9e48b6f1bda28ee99ea, type: 2}
+    poolName: Effects
+    amountToPool: 50
+    shouldExpand: 0
+    inEditor: 0
+  - objectToPool: {fileID: 1683704171624666, guid: f2efdfd475c39488a935778165434a25,
+      type: 2}
+    poolName: Effects
+    amountToPool: 1
+    shouldExpand: 1
+    inEditor: 0
+  - objectToPool: {fileID: 1423296986960928, guid: 77fd414f90e434225a8cbb0772589f11,
+      type: 2}
+    poolName: Effects
+    amountToPool: 2
+    shouldExpand: 0
+    inEditor: 0
+  - objectToPool: {fileID: 100804, guid: c1d86e442930a7b40835a0fbad225fbd, type: 2}
+    poolName: Effects
+    amountToPool: 4
+    shouldExpand: 0
+    inEditor: 0
+  - objectToPool: {fileID: 100000, guid: 045b1a17bc5268b419f9a7fa7af3c2ba, type: 2}
+    poolName: Effects
+    amountToPool: 2
+    shouldExpand: 1
+    inEditor: 0

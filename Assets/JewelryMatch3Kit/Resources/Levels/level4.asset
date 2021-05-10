@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85985ed2ed03d4a179ab825b49a0744a, type: 3}
+  m_Name: level4
+  m_EditorClassIdentifier: 
+  Collect: 2
+  Moves: 20
+  ColorLimit: 4
+  Stars: 20030000b0040000540b0000
+  Tutorial: 0

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - chain
+  - diamond
+  - Chain
+  - wire
+  - flower
+  - striped
+  - mark
+  - key_holder
+  - lock
+  - key
+  - flower_item
+  - spiral_bomb
+  - multicolor
+  - secret
+  - nested
+  - nested_big
+  - nested_small
+  - touch_counter
+  - potion
+  - wire1
+  - diamond_midle
+  - line
+  - explosion1
+  - FxTemporaire
+  - puff
+  - stars_lock
+  - spawner
+  - explosion_wave
+  - striped_effect
+  - score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Item
+  - Background
+  - Border
+  - Objects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 622132695
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item1
+    uniqueID: 2394214921
+    locked: 0
+  - name: Item2
+    uniqueID: 1653666481
+    locked: 0
+  - name: Item3
+    uniqueID: 2642526067
+    locked: 0
+  - name: Level
+    uniqueID: 1917002697
+    locked: 0
+  - name: Level2
+    uniqueID: 2665286893
+    locked: 0
+  - name: UI
+    uniqueID: 58496801
+    locked: 0

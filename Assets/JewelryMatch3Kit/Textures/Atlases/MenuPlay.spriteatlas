@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MenuPlay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d0c47909ddf70d24f8318c9add01aecc, type: 3}
+    - {fileID: 2800000, guid: 8c0d343b37957a94a9c304f322a9b7fa, type: 3}
+    - {fileID: 2800000, guid: 314c8731538803a40b77a7d3524e3822, type: 3}
+    - {fileID: 2800000, guid: b0a8f960cbf81dc40bf0ee50df0b0e33, type: 3}
+    - {fileID: 2800000, guid: 9ce4d4adc808e794abbb13d0eee5b31e, type: 3}
+    - {fileID: 2800000, guid: 5f7bff93f2b65db4d94e69f083601c8e, type: 3}
+    - {fileID: 2800000, guid: 1a4076f6d1cfbe54da1a4f87c51a26d9, type: 3}
+    totalSpriteSurfaceArea: 1319051
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b0a8f960cbf81dc40bf0ee50df0b0e33, type: 3}
+  - {fileID: 21300000, guid: 314c8731538803a40b77a7d3524e3822, type: 3}
+  - {fileID: 21300000, guid: 5f7bff93f2b65db4d94e69f083601c8e, type: 3}
+  - {fileID: 21300000, guid: 1a4076f6d1cfbe54da1a4f87c51a26d9, type: 3}
+  - {fileID: 21300000, guid: d0c47909ddf70d24f8318c9add01aecc, type: 3}
+  - {fileID: 21300000, guid: 8c0d343b37957a94a9c304f322a9b7fa, type: 3}
+  - {fileID: 21300000, guid: 9ce4d4adc808e794abbb13d0eee5b31e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - play_menu_booster_02
+  - play_menu_booster
+  - play_menu_spot_boost_yes
+  - x_button
+  - play_button
+  - play_menu_01
+  - play_menu_level
+  m_RenderDataMap: {}
+  m_Tag: MenuPlay
+  m_IsVariant: 0
